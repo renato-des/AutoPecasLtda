@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Auto Peças Ltda</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="menu">Peças</string>
+    <string name="action_settings">menu</string>
+
+    <array name="spinner_fab">
+        <item>TOYOTA</item>
+        <item>FORD</item>
+        <item>GM</item>
+        <item>FIAT</item>
+        <item>VW</item>
+        <item>AUDI</item>
+        <item>BMW</item>
+    </array>
+</resources>
